@@ -1,4 +1,4 @@
 class A
 {
-	S.o.p("venky,star");
+	S.o.p("venky,star,naveen");
 }
